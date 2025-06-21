@@ -1,15 +1,13 @@
-"Format","MoTeC CSV File",,,"Workbook","Driver"
-"Venue","daytona 2011 road",,,"Worksheet","Driver General"
-"Vehicle","porsche718gt4",,,"Vehicle Desc","porsche718gt4"
-"Driver","Craig Putzstuck",,,"Engine ID",""
-"Device","ADL"
-"Comment","baseline.sto",,,"Session","Race"
-"Log Date","6/19/2025",,,"Origin Time","0.000","s"
-"Log Time","12:54:24 PM",,,"Start Time","0.000","s"
-"Sample Rate","1.000","Hz",,"End Time","1545.217","s"
-"Duration","1545.217","s",,"Start Distance","0","m"
-"Range","entire outing",,,"End Distance","70421","m"
-"Beacon Markers","96.189 216.621 333.781 450.185 566.681 683.183 799.418 915.999 1033.713 1150.292 1268.527 1385.641 1532.211 "
+"Format","MoTeC CSV File",
+"Venue","Daytona 2011 Road",
+"Vehicle","Porsche 718 GT4",
+"Driver","Craig Putzstuck",
+"Sample Rate","1.000Hz",
+"Range","Entire Outing",
+"Log Date","6/19/2025",
+"Log Time","12:54:24 PM",
+"Duration","1545.217s",
+"Total Distance","70421m",
 "Time","Distance","Brake","Throttle","Fuel Level","Fuel Remaining","Lap","LapDeltaToBestLap","Speed","Tyre Pres FL","Tyre Pres FR","Tyre Pres RL","Tyre Pres RR","Steering Wheel Angle","TrackTemp"
 "s","m","%","%","l","%","","s","m/s","kPa","kPa","kPa","kPa","rad","C"
 "0.000","0","100.000000","0.000000","44.0000000","50.5747136","0","0.0000000","0.0181869","172.369008","172.369008","165.474016","165.474016","-0.05921532","22.2222288"
